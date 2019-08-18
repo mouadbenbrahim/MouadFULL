@@ -26,3 +26,11 @@ Thumbs.db
 ehthumbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
+.prettierignore
+.prettierrc
+README.md
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/settings.json
+config/project-scratch-def.json
+mdapi/unpackaged.zip
